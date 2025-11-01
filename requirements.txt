@@ -1,0 +1,17 @@
+# tensorflow==2.16.1
+# pandas 
+# numpy 
+# scikit-learn
+# tensorboard
+# matplotlib
+# streamlit
+# scikeras
+
+tensorflow==2.16.1
+numpy<2.0
+pandas
+scikit-learn
+tensorboard>=2.16.2
+matplotlib
+streamlit
+scikeras
