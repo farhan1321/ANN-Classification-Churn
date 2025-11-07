@@ -132,3 +132,12 @@ Convert into a full dashboard with reports
 
 If you like this project, don't forget to star⭐ the repository and follow for more ML/AI projects.
 
+👤 Farhan Khan
+📧 Email: fkkhan6878@gmail.com
+
+🔗 GitHub: https://github.com/farhan1321
+
+🔗 LinkedIn: www.linkedin.com/in/farhan-khan-bb230b243
+
+⭐ If you like this project, please give it a star on GitHub! ⭐
+
